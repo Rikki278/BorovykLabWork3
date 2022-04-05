@@ -2,7 +2,7 @@
 alias закатати='mkdir'
 alias реєструвати='touch'
 alias розібрати='rm'
-alias простукати='ls
+alias простукати='less'
 
 
 
